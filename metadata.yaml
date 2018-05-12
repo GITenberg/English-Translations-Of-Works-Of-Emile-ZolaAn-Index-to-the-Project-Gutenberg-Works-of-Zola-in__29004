@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29004#English-Translations-Of-Works-Of-Emile-ZolaAn-Index-to-the-Project-Gutenberg-Works-of-Zola-in_
 gutenberg_issued: '2009-05-30'
 gutenberg_type: Text
 identifiers:
